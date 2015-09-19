@@ -16,6 +16,7 @@ namespace HelloWorld
             Console.WriteLine("Earth is mine");
             Console.WriteLine("Earth on Local repository");
             Console.WriteLine("World on GitHub");
+            Console.WriteLine("GitHub for git pull");
         }
     }
 }
